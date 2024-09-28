@@ -1,5 +1,5 @@
-👋 Hi, I’m @Azhwake!
+👋 Hi, I’m Azhwake!
 
-🔐 Passionate about cybersecurity, networking, and secure web development.
-🌐 Currently exploring data structures, network security protocols, and cyber defense strategies.
-💻 Aspiring to become a full-stack developer, continuously enhancing my skills in ethical hacking, system security, and web technologies.
+🔐 Passionate about cybersecurity, ethical hacking, and secure web development.
+Constantly honing my skills in network security and defense strategies.
+💻 Aspiring full-stack developer, focused on building secure, scalable systems
