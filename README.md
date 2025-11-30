@@ -1,7 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1601758123927-48b9c15f7d35?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" />
-</p>
+![Banner](https://images.unsplash.com/photo-1601758123927-48b9c15f7d35?auto=format&fit=crop&w=1200&q=80)
 
 ## Hey, I'm Ashwaq 👋  
 **Software Engineer | Cybersecurity Enthusiast | Full-Stack Developer**  
@@ -73,9 +71,7 @@ Currently focused on **backend development**, **cloud fundamentals**, and **prac
 
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azhwake&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![Ashwaq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azhwake&show_icons=true&theme=radical)
 
 
 
