@@ -18,19 +18,15 @@ Currently focused on **backend development**, **cloud fundamentals**, and **prac
 - 🤝 Open to collaborating on security tools, full-stack apps, and open-source projects  
 
 ---
-## 🖤 Tech Stack (Dark Mode Aesthetic)
+## 🖤 Tech Stack 
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,php&theme=dark" /><br/>
 
-  <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=django,nodejs,react,dotnet,flutter&theme=dark" /><br/>
 
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark" /><br/>
 
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,postgres&theme=dark" />
 </p>
 
