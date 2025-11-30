@@ -4,13 +4,13 @@
 **Software Engineer | Cybersecurity Enthusiast | Full-Stack Developer**  
 
 I build **secure, modern, and scalable applications**.  
-I love exploring how systems break — and more importantly, how to protect them.  
+I love exploring how systems break  and more importantly, how to protect them.  
 Currently focused on **backend development**, **cloud fundamentals**, and **practical cybersecurity skills** like securing APIs, authentication flows, and server configs.  
 
 ---
 
 ### 🚀 About Me
-- 🛡️ Passionate about **Cybersecurity** — securing apps, endpoints & networks  
+- 🛡️ Passionate about **Cybersecurity**  securing apps, endpoints & networks  
 - ☁️ Learning and applying **Cloud Computing** & modern deployment tools  
 - 💻 Full-stack developer turning ideas into real projects  
 - 🌍 Based in Somaliland  
