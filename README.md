@@ -22,11 +22,8 @@ Currently focused on **backend development**, **cloud fundamentals**, and **prac
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,java,php&theme=dark" /><br/>
-
   <img src="https://skillicons.dev/icons?i=django,nodejs,react,dotnet,flutter&theme=dark" /><br/>
-
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark" /><br/>
-
   <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,postgres&theme=dark" />
 </p>
 
@@ -49,7 +46,7 @@ Currently focused on **backend development**, **cloud fundamentals**, and **prac
 | 🔐 Login/Auth System | Django + JWT | [Repo](#) |
 | 🎨 Portfolio Website | HTML/CSS/JS | [Repo](#) |
 | 📦 Full-Stack CRUD App | Node.js + MongoDB | [Repo](#) |
- 
+| 🔗 URL Shortener | TypeScript + Node.js + SQLite | [Repo](https://github.com/Azhwake/url-shortener) |
 
 ### 🔹 Tools I Use
 <p>
