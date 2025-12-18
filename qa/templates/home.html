@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple Q&A</title>
+  <style>
+    body {
+      font-family: Arial;
+      background: #f4f4f4;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .box {
+      background: white;
+      padding: 20px;
+      width: 400px;
+      border-radius: 8px;
+      text-align: center;
+    }
+    input, button {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <h2>💬 Simple Q&A</h2>
+
+  <form method="POST">
+    {% csrf_token %}
+    <input type="text" name="question" placeholder="Ask a question..." />
+    <button type="submit">Ask</button>
+  </form>
+
+  {% if answer %}
+    <p><strong>{{ answer }}</strong></p>
+  {% endif %}
+</div>
+
+</body>
+</html>
